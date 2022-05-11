@@ -1,0 +1,223 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Ahmad Brakat",
+      "email": "ahmdbrkat901@gmail.com",
+      "address": "Gwenboroug",
+      "phone": "+963988216585",
+      "fax": "1-770-736-82",
+      "skills": {
+        "html": 90,
+        "css": 89,
+        "js": 70,
+        "bootstrap": 80,
+        "react": 60
+      },
+      "socialMedia": {
+        "website": "hildegard.org",
+        "github": "Ahmad.info",
+        "twitter": "Ahmad_Brakat",
+        "Instagram": "AhmadBrakat",
+        "Facebook": "Ahmad Brakat"
+      },
+      "imageHeager": "https://via.placeholder.com/340x120/FFB6C1/000000",
+      "imageAvatar": "https://bootdey.com/img/Content/avatar/avatar5.png"
+    },
+    {
+      "id": 2,
+      "name": "Anas Mohamad",
+      "email": "AnasMohamad@gmail.com",
+      "address": "Gwenboroug",
+      "phone": "+963955467235",
+      "fax": "1-770-736-82",
+      "website": "hildegard.org",
+      "skills": {
+        "html": 85,
+        "css": 79,
+        "js": 60,
+        "bootstrap": 80,
+        "react": 70
+      },
+      "socialMedia": {
+        "website": "hildegard.org",
+        "github": "Ahmad.info",
+        "twitter": "Ahmad_Brakat",
+        "Instagram": "AhmadBrakat",
+        "Facebook": "Ahmad Brakat"
+      },
+      "imageHeager": "https://via.placeholder.com/340x120/FF8C00/000000",
+      "imageAvatar": "https://bootdey.com/img/Content/avatar/avatar1.png"
+    },
+    {
+      "id": 3,
+      "name": "Sami Khadawirdeg",
+      "email": "SamiXP@gmail.com",
+      "phone": "+963955324657",
+      "fax": "1-770-736-82",
+      "address": "Gwenboroug",
+      "website": "hildegard.org",
+      "imageHeager": "https://via.placeholder.com/340x120/87CEFA/000000",
+      "imageAvatar": "https://bootdey.com/img/Content/avatar/avatar2.png",
+      "skills": {
+        "html": 90,
+        "css": 89,
+        "js": 70,
+        "bootstrap": 80,
+        "react": 60
+      }
+    },
+    {
+      "id": 4,
+      "name": "Lena Amor",
+      "username": "Bret",
+      "email": "Lena.Amor@april.biz",
+      "address": "Gwenboroug",
+      "phone": "1-770-736-8031 x56442",
+      "fax": "1-770-736-82",
+      "website": "hildegard.org",
+      "skills": {
+        "html": 90,
+        "css": 89,
+        "js": 70,
+        "bootstrap": 80,
+        "react": 60
+      },
+      "socialMedia": {
+        "website": "hildegard.org",
+        "github": "Ahmad.info",
+        "twitter": "Ahmad_Brakat",
+        "Instagram": "AhmadBrakat",
+        "Facebook": "Ahmad Brakat"
+      },
+      "imageHeager": "https://via.placeholder.com/340x120/20B2AA/000000",
+      "imageAvatar": "https://bootdey.com/img/Content/avatar/avatar3.png"
+    },
+    {
+      "id": 5,
+      "name": "Graham Alsead",
+      "username": "Bret",
+      "email": "GrahamAlsead@april.biz",
+      "address": "Gwenboroug",
+      "phone": "1-770-736-8031 x56442",
+      "fax": "1-770-736-82",
+      "website": "hildegard.org",
+      "skills": {
+        "html": 90,
+        "css": 89,
+        "js": 70,
+        "bootstrap": 80,
+        "react": 60
+      },
+      "socialMedia": {
+        "website": "hildegard.org",
+        "github": "Ahmad.info",
+        "twitter": "Ahmad_Brakat",
+        "Instagram": "AhmadBrakat",
+        "Facebook": "Ahmad Brakat"
+      },
+      "imageHeager": "https://via.placeholder.com/340x120/FFA07A/000000",
+      "imageAvatar": "https://bootdey.com/img/Content/avatar/avatar4.png"
+    },
+    {
+      "id": 6,
+      "name": "Ali Omar",
+      "email": "Ali.Omar@april.biz",
+      "address": "Gwenboroug",
+      "phone": "8031 x56442",
+      "fax": "1-770-736-82",
+      "website": "hildegard.org",
+      "skills": {
+        "html": 90,
+        "css": 89,
+        "js": 70,
+        "bootstrap": 80,
+        "react": 60
+      },
+      "socialMedia": {
+        "website": "hildegard.org",
+        "github": "Ahmad.info",
+        "twitter": "Ahmad_Brakat",
+        "Instagram": "AhmadBrakat",
+        "Facebook": "Ahmad Brakat"
+      },
+      "imageHeager": "https://via.placeholder.com/340x120/7B68EE/000000",
+      "imageAvatar": "https://bootdey.com/img/Content/avatar/avatar6.png"
+    },
+    {
+      "id": 7,
+      "name": "Ali Omar",
+      "email": "Ali.Omar@april.biz",
+      "address": "Gwenboroug",
+      "phone": "8031 x56442",
+      "fax": "1-770-736-82",
+      "website": "hildegard.org",
+      "skills": {
+        "html": 90,
+        "css": 89,
+        "js": 70,
+        "bootstrap": 80,
+        "react": 60
+      },
+      "socialMedia": {
+        "website": "hildegard.org",
+        "github": "Ahmad.info",
+        "twitter": "Ahmad_Brakat",
+        "Instagram": "AhmadBrakat",
+        "Facebook": "Ahmad Brakat"
+      },
+      "imageHeager": "https://via.placeholder.com/340x120/BA55D3/000000",
+      "imageAvatar": "https://bootdey.com/img/Content/avatar/avatar7.png"
+    },
+    {
+      "id": 8,
+      "name": "Masa anas",
+      "email": "Masa@april.biz",
+      "address": "Gwenboroug",
+      "phone": "8031 x56442",
+      "fax": "1-770-736-82",
+      "website": "hildegard.org",
+      "skills": {
+        "html": 90,
+        "css": 89,
+        "js": 70,
+        "bootstrap": 80,
+        "react": 60
+      },
+      "socialMedia": {
+        "website": "hildegard.org",
+        "github": "Ahmad.info",
+        "twitter": "Ahmad_Brakat",
+        "Instagram": "AhmadBrakat",
+        "Facebook": "Ahmad Brakat"
+      },
+      "imageHeager": "https://via.placeholder.com/340x120/7B68EE/000000",
+      "imageAvatar": "https://bootdey.com/img/Content/avatar/avatar6.png"
+    },
+    {
+      "id": 9,
+      "name": "Ali Omar",
+      "email": "Ali.Omar@april.biz",
+      "address": "Gwenboroug",
+      "phone": "8031 x56442",
+      "fax": "1-770-736-82",
+      "website": "hildegard.org",
+      "skills": {
+        "html": 90,
+        "css": 89,
+        "js": 70,
+        "bootstrap": 80,
+        "react": 60
+      },
+      "socialMedia": {
+        "website": "hildegard.org",
+        "github": "Ahmad.info",
+        "twitter": "Ahmad_Brakat",
+        "Instagram": "AhmadBrakat",
+        "Facebook": "Ahmad Brakat"
+      },
+      "imageHeager": "https://via.placeholder.com/340x120/FF4500/000000",
+      "imageAvatar": "https://bootdey.com/img/Content/avatar/avatar8.png"
+    }
+  ]
+}
